@@ -1,0 +1,6 @@
+{
+  "name": "Calorie & Fat Loss Tracker",
+  "description": "Track daily calorie intake, log meals, suggest calorie targets, and estimate weeks required to lose body fat.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
